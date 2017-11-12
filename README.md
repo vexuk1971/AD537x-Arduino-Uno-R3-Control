@@ -10,8 +10,8 @@ Changes:
 - Dual operation on two boards is no longer possible, but the channel range has been increased from 32 (40) to 64 (80) if 
   two boards / chips are to be used 
 - The Arduino SPI class is not included, I use the direct access
-  ok, that is not necessarily Arduino compatible, but saves me memory and CPU time
-  also, i don´t use any delay(n) functions
+  ok, that is not necessarily Arduino compatible, but saves me memory and CPU time.
+  Also, i don´t use any delay(n) functions
 
 Improvements:
 - It is possible to use both types of chips.
