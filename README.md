@@ -23,7 +23,9 @@ Improvements:
 Data Input format:
 
 C = clear toogle on/off
+
 R = reset Chip
+
 L = load Chip Register
 
 D = select Dac Register
