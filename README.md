@@ -4,7 +4,7 @@ Control an AD537x Eval Board with an Arduino - only Uno R3 supported yet
 Created: 2017/10/9
 Author: Ulrich.Kohlrusch
 
-changed & improved from https://github.com/filiplindau/AD5370 by Filip Lindau & Kaustubh Banerje
+changed & improved from https://github.com/filiplindau/AD5370 by Filip Lindau & Kaustubh Banerje https://bitbucket.org/lamdacore/ad5372-eval-arduino-control
 
 Changes:
 - Dual operation on two boards is no longer possible, but the channel range has been increased from 32 (40) to 64 (80) if 
