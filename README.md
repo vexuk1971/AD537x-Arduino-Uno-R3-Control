@@ -22,7 +22,7 @@ Improvements:
 
 Data Input format:
 
-C = clear toogle on/off
+C = clear toggle on/off
 
 R = reset Chip
 
